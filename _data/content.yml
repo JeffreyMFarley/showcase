@@ -1,0 +1,58 @@
+# - page:
+#   image:
+#   url:
+#   description:
+#   date-published:
+
+toc:
+  - title: Technical
+    subfolderitems:
+      - page: Clustersplaining
+        image: images/clustersplaining.png
+        url: https://docs.google.com/presentation/d/1tHFGdfJKKBqUpFPzQLcrZXNNJOengqcoTrnfjgznAdA
+        description: An explanation of K-Means and k-d trees using paint swatches
+        date-published: 2016-08-13
+      - page: Mocking Elasticsearch
+        image: images/mocking-elasticsearch.gif
+        url: https://dev.to/jeffreymfarley/mocking-elasticsearch-5goj
+        description: An easy way to mock a complicated API
+        date-published: 2018-01-31
+      - page: Deploy Atomically with Travis & npm
+        image: images/deploy-atomically.png
+        url: https://dev.to/jeffreymfarley/deploy-atomically-with-travis--npm-68b
+        description: Have your CI server build your assets too
+        date-published: 2017-10-31
+      - page: Better Than Booleans
+        image: images/better-than-booleans.png
+        url: https://docs.google.com/presentation/d/1U4lWt1V5F58MvjzPxTlaO42S8eYpYM_E1kmVTl62oX0
+        description: Most likely, if you are using booleans in your code, there's a better way.
+        date-published: 2017-10-10
+      - page: 5 Minutes on Git
+        image: images/5-minute-git.png
+        url: https://docs.google.com/presentation/d/1iAXZRYM95RLtjwijxVWOeLOP2veLz2GJUyVU4vLkx94
+        description: My attempt to explain Git to people who aren't familiar with it
+        date-published: 2019-06-24
+  - title: Technical Adjacent
+    subfolderitems:
+      - page: Bring a Scarecrow
+        image: images/scarecrow.png
+        url: https://docs.google.com/presentation/d/1f6_BoWOTMiF6UuB8krMtBZxZme9UtJ9GcOqBjdUpxtg
+        description: Put an end to meetings that go nowhere
+        date-published: 2019-09-23
+      - page: Mind Mapping is Awesome
+        image: images/mind-map.png
+        url: https://docs.google.com/presentation/d/1vg4mm5g3BbNiYbYsJCdTt3TKWReafA6b2KkeqvbA0jI
+        description: A better, faster way to take notes
+        date-published: 2018-10-25
+  - title: Fun
+    subfolderitems:
+      - page: Unexpected Storytelling Lessons from Back To The Future
+        image: images/bttf.png
+        url: https://docs.google.com/presentation/d/1ORlRMLEAvuZgotByXPH6W-2prXTobrNpOhj_bVzbhSo
+        description: Who is really the hero of this movie?
+        date-published: 2019-09-19
+      - page: The Königsberg Bridge Problem
+        image: images/konigsberg.jpg
+        url: http://cool-story-bro.thecomicseries.com/comics/pl/913774
+        description: 1730 - The people of Königsberg, Prussia had an interesting game... Was there a path visiting all 7 bridges without crossing the same bridge twice?
+        date-published: 2018-06-24
