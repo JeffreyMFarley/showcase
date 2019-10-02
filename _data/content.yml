@@ -44,6 +44,11 @@ toc:
         url: https://docs.google.com/presentation/d/1vg4mm5g3BbNiYbYsJCdTt3TKWReafA6b2KkeqvbA0jI
         description: A better, faster way to take notes
         date-published: 2018-10-25
+      - page: Rethink Your Project Names
+        image: images/naming-is-hard.jpg
+        url: https://pov.stsiinc.com/rethink-your-project-names-8b928758ab15
+        description: Maybe think a bit first before naming your project ATCO-CMS
+        date-published: 2017-09-27
   - title: Fun
     subfolderitems:
       - page: Unexpected Storytelling Lessons from Back To The Future
