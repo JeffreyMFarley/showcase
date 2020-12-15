@@ -7,6 +7,11 @@
 toc:
   - title: Technical
     subfolderitems:
+      - page: Robust Pipelines
+        image: images/robust-pipelines.png
+        url: https://docs.google.com/presentation/d/1o9Gvt89bgcazAwiWLV4lfMnNZL-ZJuM1vGfXXL5vXGw
+        description: Better pipelines with Makefiles and Python
+        date-published: 2020-12-15
       - page: Clustersplaining
         image: images/clustersplaining.png
         url: https://docs.google.com/presentation/d/1tHFGdfJKKBqUpFPzQLcrZXNNJOengqcoTrnfjgznAdA
